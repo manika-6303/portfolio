@@ -1,0 +1,29 @@
+.page{
+    color:rgb(117, 109, 109);
+    padding-top: 5%;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Berlin Sans FB';
+}
+.img{
+    padding-left: 29%
+}
+.llu{
+    color:rgb(110, 104, 96);
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Berlin Sans FB';
+}
+.button{
+    background-color: #bb8f3f;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  align-items: center;
+  margin-left: 700px;
+  margin-top: 30px;
+}
